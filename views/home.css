@@ -518,7 +518,7 @@ i {
     justify-content: center;
     padding: 1rem;
     padding-top: 3%;
-
+    transform: translateY(-60px);
 
 }
 
